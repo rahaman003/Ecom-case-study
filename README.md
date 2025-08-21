@@ -51,9 +51,9 @@ From this case study, the dashboards and insights should:
    
 	Price variation across brand/category/time
 
-  Impact of promotions and discounts on sales uplift
+	Impact of promotions and discounts on sales uplift
 
-Effect of pricing fluctuations on conversion
+	Effect of pricing fluctuations on conversion
  
 5.	Customer Behaviour Insights
    
