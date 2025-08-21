@@ -19,11 +19,11 @@ The client provided two datasets covering two months of customer behaviour:
    
 	user_id, user_session, state, user_score (customer segmentation)
 
- event_date, day_of_week, event_time, event_hour, event_type (view/cart/purchase)
+ 	event_date, day_of_week, event_time, event_hour, event_type (view/cart/purchase)
 
- channel (App / Browser)
+ 	channel (App / Browser)
 
- product_id, category, sub_category1, sub_category2, brand, price
+ 	product_id, category, sub_category1, sub_category2, brand, price
 
 3.	Promotions – Special promotion details:
    
@@ -47,7 +47,7 @@ From this case study, the dashboards and insights should:
 
 	Sales performance by brand, category, channel, state, time
 
-3.	Pricing & Promotion Analysis
+2.	Pricing & Promotion Analysis
    
 	Price variation across brand/category/time
 
@@ -55,7 +55,7 @@ From this case study, the dashboards and insights should:
 
 	Effect of pricing fluctuations on conversion
  
-5.	Customer Behaviour Insights
+3.	Customer Behaviour Insights
    
 	Traffic and activity trends by day/time/channel
 
@@ -63,7 +63,7 @@ From this case study, the dashboards and insights should:
 
 	Session patterns and brand/category preferences
 
-7.	Actionable Insights for Stakeholders
+4.	Actionable Insights for Stakeholders
    
 	Who can use: Marketing teams, Pricing managers, Category managers, Leadership
 
