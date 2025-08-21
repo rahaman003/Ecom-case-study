@@ -17,23 +17,11 @@ The client provided two datasets covering two months of customer behaviour:
 
 1.	Sales_Data_Ecommerce – Customer behavior and transactions data:
    
-	user_id, user_session, state, user_score (customer segmentation)
+	user_id, user_session, state, user_score (customer segmentation), event_date, day_of_week, event_time, event_hour, event_type (view/cart/purchase), channel (App / Browser), product_id, category, sub_category1, sub_category2, brand, price
 
- 	event_date, day_of_week, event_time, event_hour, event_type (view/cart/purchase)
-
- 	channel (App / Browser)
-
- 	product_id, category, sub_category1, sub_category2, brand, price
-
-3.	Promotions – Special promotion details:
+2.	Promotions – Special promotion details:
    
-	promotion_id (promotion type)
-
-	date (promotion day)
-
-	discount%
-
-	product_id
+	promotion_id (promotion type), date (promotion day), discount%, product_id
 
 ________________________________________
 
